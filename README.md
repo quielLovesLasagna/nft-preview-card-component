@@ -49,7 +49,7 @@ Adding overlay in hover state.
   <img src="./images/image-equilibrium.jpg" alt="Equilibrium" lass="card-img" />
   <div class="overlay">
     <img src="./images/icon-view.svg" alt="eye icon" />
-    /div>
+  </div>
   </div>
 </div>
 ```
