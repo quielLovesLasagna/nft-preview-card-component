@@ -50,7 +50,6 @@ Adding overlay in hover state.
   <div class="overlay">
     <img src="./images/icon-view.svg" alt="eye icon" />
   </div>
-  </div>
 </div>
 ```
 
