@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/quielLovesLasagna/nft-preview-card-component](https://github.com/quielLovesLasagna/nft-preview-card-component)
+- Live Site URL: [https://quiel-nft-preview-card-component.netlify.app/](https://quiel-nft-preview-card-component.netlify.app/)
 
 ## My process
 
